@@ -1,0 +1,1 @@
+1. Un flop es una operación de punto flotante
